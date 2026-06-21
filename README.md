@@ -11,13 +11,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=naveencmy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=naveencmy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveencmy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveencmy&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveencmy&layout=compact&theme=tokyonight)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naveencmy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
 
+![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=naveencmy&repo=EduVerify&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=naveencmy&icon=8&color=5)](https://visitcount.itsvg.in)
 
