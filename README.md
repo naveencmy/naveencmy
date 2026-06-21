@@ -17,7 +17,5 @@
 ## 🔝 Top Contributed Repo
 
 ![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=naveencmy&repo=EduVerify&theme=tokyonight)
----
-[![](https://visitcount.itsvg.in/api?id=naveencmy&icon=8&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
