@@ -11,8 +11,7 @@
 ![Naveen's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=naveencmy&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveencmy&layout=pie&theme=tokyonight)
-### ✍️ Random Dev Quote
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveencmy&layout=donut&theme=tokyonight)### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
