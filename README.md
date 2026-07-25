@@ -1,5 +1,5 @@
 ### 💫 About Me
-
+<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+Automation+Enthusiast;Backend+Systems+Architect" alt="Typing SVG" /></a><br>
 I am a software engineer and Computer Science student driven by a passion for backend architecture, API design, and cloud workflows. I thrive on building foundational systems and designing real SaaS-style projects that solve complex problems. 
 
 As an AI and automation enthusiast, I enjoy leveraging technologies across Java, Python, and Node.js to engineer scalable solutions. Whether I am architecting asynchronous data pipelines or exploring DevOps basics, my goal is to bridge the gap between intelligent engineering and seamless user experiences.
