@@ -1,6 +1,10 @@
-# 💫 About Me:
-🚀 Current Focus<br>- Building foundational skills in full-stack development<br>- Designing small but real SaaS-style projects<br>- Learning system design, devops basics, and cloud deployment<br>
+### 💫 About Me
 
+I am a software engineer and Computer Science student driven by a passion for backend architecture, API design, and cloud workflows. I thrive on building foundational systems and designing real SaaS-style projects that solve complex problems. 
+
+As an AI and automation enthusiast, I enjoy leveraging technologies across Java, Python, and Node.js to engineer scalable solutions. Whether I am architecting asynchronous data pipelines or exploring DevOps basics, my goal is to bridge the gap between intelligent engineering and seamless user experiences.
+
+>" Try to Push My Limits F##cking Harder"
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_epicnavtales) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-kumar-m-e-07b87b326) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pinterest.com/nks3244587) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/@nks3244587) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@NaveenKumarME) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Naveen-Kumar-M-E) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:nks3244587@gmail.com) 
