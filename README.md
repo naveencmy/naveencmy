@@ -3,7 +3,7 @@
   # 💫 Hi there, I'm Naveen Kumar M E
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Systems+Architect;AI+%26+Automation+Enthusiast;Astrophile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Software%20Engineer;Backend%20Systems%20Architect;AI%20%26%20Automation%20Enthusiast;Astrophile" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -19,7 +19,7 @@
 
 <br>
 
-###  About Me
+### About Me
 
 I am a **Software Engineer** and **Computer Science student** passionate about building foundational backend systems, API design, and automated cloud workflows. 
 
@@ -31,11 +31,10 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
 
 ---
 
-### 🌐 Verified Developer Ecosystem Badges
+### 🌐 Verified Developer Ecosystem
 
 <div align="center">
 
-  <!-- Ecosystem Badges -->
   <a href="https://g.dev/naveenatgdg">
     <img src="https://img.shields.io/badge/Google_Developer-Premium_Tier-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Premium Tier" />
   </a>
@@ -49,11 +48,7 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
     <img src="https://img.shields.io/badge/GDG-Coimbatore_%26_Cloud_Chennai-EA4335?style=for-the-badge&logo=google-developers&logoColor=white" alt="GDG Member" />
   </a>
 
-</div>
-
-<br>
-
-<div align="center">
+  <br><br>
 
   |  **Cloud Infrastructure & DevSecOps** |  **AI Engineering & Data Mesh** |
   | :--- | :--- |
@@ -65,43 +60,27 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
   <a href="https://github.com/naveencmy/erode-kural-poc">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=naveencmy&repo=erode-kural-poc&theme=tokyonight&show_owner=true" alt="Erode Kural POC Project" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=naveencmy&repo=erode-kural-poc&theme=tokyonight&show_owner=true&cache_seconds=0" alt="Erode Kural POC Project" />
   </a>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### Tech Stack & Tooling
 
-**Languages & Data Science**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-**Backend, Cloud & AI**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,nodejs,express,postgres,firebase,gcp,azure,git,postman,netlify,arduino,go&perline=8" alt="Tech Stack Icons" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+###  GitHub Activity & Analytics
 
 <div align="center">
 
@@ -114,6 +93,8 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
 
   <br><br>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="https://github.com/naveencmy">
+    <img src="https://raw.githubusercontent.com/naveencmy/naveencmy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </a>
 
 </div>
