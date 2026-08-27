@@ -34,12 +34,14 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
 ### 🌐 Verified Developer Ecosystem
 
 <div align="center">
-
   <a href="https://g.dev/naveenatgdg">
     <img src="https://img.shields.io/badge/Google_Developer-Premium_Tier-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Premium Tier" />
   </a>
   <a href="https://g.dev/naveenatgdg">
     <img src="https://img.shields.io/badge/Google_Cloud-Innovator-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Innovator" />
+  </a>
+  <a href="https://g.dev/naveenatgdg">
+    <img src="https://img.shields.io/badge/Google_Cloud-Facilitator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Facilitator" />
   </a>
   <a href="https://www.kaggle.com/naveenkumarme">
     <img src="https://img.shields.io/badge/Kaggle-Competitor_%26_Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
@@ -47,6 +49,7 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
   <a href="https://g.dev/naveenatgdg">
     <img src="https://img.shields.io/badge/GDG-Coimbatore_%26_Cloud_Chennai-EA4335?style=for-the-badge&logo=google-developers&logoColor=white" alt="GDG Member" />
   </a>
+</div>
 
   <br><br>
 
