@@ -83,17 +83,16 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
 
 ---
 
-###  GitHub Activity & Analytics
+### GitHub Activity & Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencmy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=naveencmy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br><br>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=naveencmy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=naveencmy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveencmy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
   <br><br>
 
   <a href="https://github.com/naveencmy">
