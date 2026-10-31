@@ -92,7 +92,7 @@ I am a **Software Engineer** and **Computer Science student** passionate about b
   <br><br>
 
  <img src="https://github-readme-stats-fast.vercel.app/api?username=naveencmy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveencmy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=naveencmy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   <br><br>
 
   <a href="https://github.com/naveencmy">
